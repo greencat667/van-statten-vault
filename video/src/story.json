@@ -1,0 +1,53 @@
+{
+  "title": "Level 53 Orientation",
+  "narrator": {
+    "engine": "kokoro",
+    "lang": "a",
+    "voice": "af_heart",
+    "speed": 0.97,
+    "voiceName": "Kokoro af_heart",
+    "who": "Senior Curator Ellen Marsh, Geocomtex Collections"
+  },
+  "spoken": {
+    "Geocomtex": "Jee-oh-com-tex",
+    "van Statten": "van Statton",
+    "Slitheen": "Slith-een",
+    "milometer": "my-lommeter",
+    "Metaltron": "Mettle-tron"
+  },
+  "lines": {
+    "n01": "Everything in this room fell out of the sky. Your job is to make sure none of it ever leaves.",
+    "n02": "Geocomtex Collections. Level fifty three, half a mile under Utah. Senior Curator Ellen Marsh, recording the night staff induction.",
+    "n03": "Mr van Statten likes it dark when he isn't here. Lesson one: know where the switch is.",
+    "n04": "Welcome to the finest private collection of alien artefacts on Earth. Possibly the only one. That's in your contract, by the way.",
+    "n05": "Chunks of meteorite. And moon dust, sealed in nineteen sixty nine. Nobody opens that jar. Including me.",
+    "n06": "The milometer from the Roswell ship. It still counts. Just not in miles.",
+    "n07": "This arm came with an invoice that said Slitheen. We don't ask what it was attached to.",
+    "n08": "The egg is not an egg. Probably. Please don't tap the glass.",
+    "n09": "And our centrepiece. Found in the London sewers, nineteen seventy seven. Whatever wore this thought it was the future.",
+    "n10": "Every case is wired. One fingerprint on the glass, and the whole level seals itself.",
+    "n11": "Ninety seconds, floor to ceiling. Nothing gets in. Nothing gets out.",
+    "n12": "Which brings us down to the Cage. Our only living exhibit. Mr van Statten calls it the Metaltron. Nobody else calls it anything.",
+    "n13": "It doesn't eat. It doesn't sleep. It hasn't made a sound in three years. Don't talk to it. And don't stand where it can see you.",
+    "n14": "That's the tour. Lights out at midnight. If you hear anything down here, you didn't. Marsh, logging off.",
+    "n12b": "God, I hate this room.",
+    "k1": "Observation log. March the third. Subject still hasn't moved.",
+    "k2": "Eighteen hours now. It won't eat. It won't sleep. I don't think it needs to.",
+    "k3": "Mr van Statten wants it to speak. He says keep the lights on. Keep talking to it.",
+    "k4": "It isn't looking at me. It's looking at the camera.",
+    "k5": "I said its name. I said its name, and it",
+    "k6": "It can see you."
+  },
+  "voices": {
+    "kessler": {
+      "engine": "kokoro",
+      "lang": "a",
+      "voice": "am_michael",
+      "speed": 0.92,
+      "who": "Dr. Paul Kessler, Cage observation, March 2009"
+    }
+  },
+  "offmic": [
+    "n12b"
+  ]
+}
